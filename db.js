@@ -4,7 +4,7 @@ const poll = new Poll({
   user: "postgres",
   host:"localhost",
   database: "students",
-  password: "sandra7/",
+  password: "",
   port: 5432
 });
 
